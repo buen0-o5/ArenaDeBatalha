@@ -1,4 +1,7 @@
 # ArenaDeBatalha
+<div>
+<img src="https://user-images.githubusercontent.com/112562547/236335258-01dc1650-6d0c-4491-b12f-59f100fc214b.png" width="400px"/>
+</div>
 
 ## Classe GameObject
 
